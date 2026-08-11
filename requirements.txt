@@ -1,0 +1,12 @@
+streamlit
+streamlit-option-menu==0.4.0
+geopandas
+pandas
+pyproj
+shapely
+folium
+streamlit-folium
+requests
+earthengine-api
+numpy
+geemap
